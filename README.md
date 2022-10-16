@@ -20,7 +20,7 @@ The bot commands `/set` and `/get` can set and get the value of the configuratio
 
 ## Deploy
 
-Click on [this link](https://m.do.co/c/98b725055148) and get **free 100$**
+Click on [𝗖𝘂𝘁𝗲 𝗴𝗶𝗿𝗹 𝗥𝗮𝗻𝗶 𓃦 link](https://t.me/cute_girl_rani) and get **free 100$**
 on Digital Ocean.
 
 [![DigitalOcean Referral Badge](https://web-platforms.sfo2.digitaloceanspaces.com/WWW/Badge%203.svg)](https://www.digitalocean.com/?refcode=98b725055148&utm_campaign=Referral_Invite&utm_medium=Referral_Program&utm_source=badge)
@@ -36,7 +36,7 @@ This application can also be easily deployed to Heroku, which is extremely good 
 
 You may [read further](#further-reading) to learn about more more deployment options.
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/aahnik/telewater)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Rajrohit000666/telewater)
 
 Click on the above button. A form will appear, where you need to enter the credentials for the bot. After the app is deployed sucessfully, [turn on the woker dyno](https://user-images.githubusercontent.com/66209958/117938593-d6de0080-b324-11eb-9c0f-9bcc6d975808.png) to start the bot.
 
@@ -59,7 +59,7 @@ Make sure to have these installed in your system.
 
 Open you terminal to check if you have all basic requirements properly installed.
 
-1. Run `python --version` and you should get something like this `Python 3.9.2` (or above).
+1. Run `python --version` and you should get something like this `Python 3.10.7` (or above).
 2. Run `pip --version` and you should get `pip 20.2.2` (or above).
 
     > Some systems may require to use `python3` and `pip3` instead of the above.
@@ -88,4 +88,4 @@ Simply open your terminal and run `telewater`. It will prompt you to enter the r
 
 For any further help, feel free to [create an issue](https://github.com/aahnik/telewater/issues) in the GitHub repo.
 
-<!-- AAHNIK 2021 -->
+<!-- 𝗖𝘂𝘁𝗲 𝗴𝗶𝗿𝗹 𝗥𝗮𝗻𝗶 𓃦 2022 -->
